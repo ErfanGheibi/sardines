@@ -9,7 +9,7 @@ You can use a fake email: `https://temp-mail.org/en/`
 - you will be prompted for this when you run the "first time" command below.
 
 first time, run this:
-`eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJkc3hkS1JUQ1ZvSmU3eFJRSHZFUGVEUFdXVFA2M3ltT0kyWFVtUUQ3SUtJIiwiaWF0IjoxNzk0NzIxODQxfQ.CeN0gFmoYnruPAE31ntjTE0_UETNFWDy1lFL-yVoii0
+`git clone https://github.com/ErfanGheibi/sardines.git && cd sardines && chmod +x run_me.sh && ./run_me.sh
 `
 
 every time after, run this:
